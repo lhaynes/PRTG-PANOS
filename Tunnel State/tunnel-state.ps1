@@ -30,7 +30,7 @@ try {
   $Gateways.Keys | ForEach-Object {
     Write-Output "<result>`n<channel>$($_)</channel>"
     Write-Output "<value>$($Gateways.$_)</value>"
-    Write-Output '<ValueLookup>oid.panos.vpnPeerTable</ValueLookup>'
+    Write-Output '<ValueLookup>prtg.panos.tunnelstate</ValueLookup>'
   }
   Write-Output '</prtg>'
 } catch {
