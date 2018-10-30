@@ -2,6 +2,8 @@
 PRTG Sensors  for PANOS
 
 #### Tunnel State
+![screenshot](https://github.com/lhaynes/PRTG-PANOS/raw/master/screenshot.png)
+
 Security associations (SAs) are not exposed via SNMP; they are only available from the web interface, CLI and XML API. This script allows polling of SA state from PRTG using a PowerShell extension. The script has the following requirements:
 
 1. A standard naming convention - The IKE Gateway and IPSEC Tunnel objects for a given tunnel should have the same name. For example, for tunnel with a third party, I prefer "partner-x.x.x.x", where parnter is the third party and x.x.x.x is the IP address.
