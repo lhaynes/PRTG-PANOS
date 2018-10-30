@@ -2,7 +2,7 @@
 PRTG Sensors  for PANOS
 
 #### Tunnel State
-![screenshot](https://github.com/lhaynes/PRTG-PANOS/raw/master/screenshot.png)
+![screenshot](https://github.com/lhaynes/PRTG-PANOS/raw/master/Tunnel%20State/screenshot.png)
 
 Security associations (SAs) are not exposed via SNMP; they are only available from the web interface, CLI and XML API. This script allows polling of SA state from PRTG using a PowerShell extension. The script has the following requirements:
 
