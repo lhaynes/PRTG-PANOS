@@ -1,5 +1,5 @@
 # PRTG-PANOS
-PRTG Sensors  for PANOS
+PRTG Sensors for PANOS
 
 #### Tunnel State
 ![screenshot](https://github.com/lhaynes/PRTG-PANOS/raw/master/Tunnel%20State/screenshot.png)
