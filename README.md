@@ -13,7 +13,7 @@ Security associations (SAs) are not exposed via SNMP; they are only available fr
 *  1 - Phase 1
 *  2 - Phase 2
 
-Note: It is not unusual for a tunnel to have a Phase 2 SA without a Phase 1 SA on PANOS. In this instance the script will reflect the Phase 2 SA.
+**Note**: It is not unusual for a tunnel to have a Phase 2 SA without a Phase 1 SA on PANOS. In this instance the script will reflect the Phase 2 SA.
 
 #### Installation
 
