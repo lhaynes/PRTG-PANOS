@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <ValueLookup id="oid.panos.vpnPeerTable" desiredValue="2" undefinedState="Error">
+  <ValueLookup id="prtg.panos.tunnelstate" desiredValue="2" undefinedState="Error">
     <Lookups>
       <SingleInt state="Error" value="0">
         Down
